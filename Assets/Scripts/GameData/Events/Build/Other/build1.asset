@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 875e4d29dd6d94452945b71de10f689c, type: 3}
+  m_Name: build1
+  m_EditorClassIdentifier: 
+  isInitialEvent: 0
+  isEmergency: 0
+  Icon: {fileID: 0}
+  eventDescription: 
+  eventTextList:
+  - text: "You get crazy and loudly denounce all the construction workers\r"
+    duration: 0.1
+  - text: You angrily blame them for not having a fence
+    duration: 0.1
+  appearTime: 0
+  timeCost: 0
+  eventChoices: {fileID: 11400000, guid: 2e52bb8a6c541844a93b0f32a2ba4780, type: 2}
+  textFile: {fileID: 4900000, guid: 2fc82c4655f91ed4e9bba0507b6e43fd, type: 3}
+  isJobEvent: 0
+  possibility: 0.5
+  jobID: -1

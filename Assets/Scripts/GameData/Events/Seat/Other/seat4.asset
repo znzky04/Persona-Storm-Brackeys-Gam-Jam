@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 875e4d29dd6d94452945b71de10f689c, type: 3}
+  m_Name: seat4
+  m_EditorClassIdentifier: 
+  isInitialEvent: 0
+  isEmergency: 0
+  Icon: {fileID: 0}
+  eventDescription: 
+  eventTextList:
+  - text: "The argument between you and the old man affected a lot of passengers\r"
+    duration: 0.1
+  - text: "And a lot of passengers took out their phones and started recording, and
+      he raise his fist and swing at you \r"
+    duration: 0.1
+  - text: Then you beat him up
+    duration: 0.1
+  appearTime: 0
+  timeCost: 0
+  eventChoices: {fileID: 11400000, guid: 20b3802b2b4b748ea8724303bf0b40b4, type: 2}
+  textFile: {fileID: 4900000, guid: 24de79a3e58df954ca1cb6f252e7d325, type: 3}
+  isJobEvent: 0
+  possibility: 0.5
+  jobID: -1

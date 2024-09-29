@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 875e4d29dd6d94452945b71de10f689c, type: 3}
+  m_Name: Bath2
+  m_EditorClassIdentifier: 
+  isInitialEvent: 0
+  isEmergency: 0
+  Icon: {fileID: 0}
+  eventDescription: 
+  eventTextList:
+  - text: "You come to a lot of people's baths\r"
+    duration: 0.1
+  - text: "You can stretch your body as much as you like. \r"
+    duration: 0.1
+  - text: "At this time you find a lost ring in the water\r"
+    duration: 0.1
+  - text: You hesitate how to deal with it.
+    duration: 0.1
+  appearTime: 0
+  timeCost: 0
+  eventChoices: {fileID: 11400000, guid: 9538f5d34f94bd244b294167b9fe9be9, type: 2}
+  textFile: {fileID: 4900000, guid: 3867ce9d192132344a48c450dba3a680, type: 3}
+  isJobEvent: 0
+  possibility: 0.5
+  jobID: -1

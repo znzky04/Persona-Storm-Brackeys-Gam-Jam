@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 45453bccee1384038ba1534a8aa2161b, type: 3}
+  m_Name: Choice_Donation01
+  m_EditorClassIdentifier: 
+  description: ignore them
+  affectCountList: 05000000fcffffff000000000000000000000000
+  eventCallUp: {fileID: 11400000, guid: 913966d1e9eddaf4cbacf70ae22903a9, type: 2}
+  costMoney: 0
+  percentage: 0

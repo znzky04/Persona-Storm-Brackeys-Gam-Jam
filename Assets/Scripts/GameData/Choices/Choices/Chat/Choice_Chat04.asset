@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 45453bccee1384038ba1534a8aa2161b, type: 3}
+  m_Name: Choice_Chat04
+  m_EditorClassIdentifier: 
+  description: Reflect on what you said
+  affectCountList: 00000000f8fffffff8ffffff020000000a000000
+  eventCallUp: {fileID: 11400000, guid: d62876c51f6f139468c0d7d960c8621c, type: 2}
+  costMoney: 0
+  percentage: 0

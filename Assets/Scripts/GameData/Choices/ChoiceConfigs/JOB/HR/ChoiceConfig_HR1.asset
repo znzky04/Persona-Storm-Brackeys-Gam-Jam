@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cc87dea97ed5e4926a54b12c6eb416fd, type: 3}
+  m_Name: ChoiceConfig_HR1
+  m_EditorClassIdentifier: 
+  choicesList:
+  - {fileID: 11400000, guid: 2ac804756afa77e40bf6862ed555d466, type: 2}
+  - {fileID: 11400000, guid: caa7ee4b9354adc42885d8b711490b61, type: 2}
+  - {fileID: 11400000, guid: 4059e1867bf3f9c468ee0937a8cdb9a9, type: 2}

@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 875e4d29dd6d94452945b71de10f689c, type: 3}
+  m_Name: build2
+  m_EditorClassIdentifier: 
+  isInitialEvent: 0
+  isEmergency: 0
+  Icon: {fileID: 0}
+  eventDescription: 
+  eventTextList:
+  - text: "You think you are so unlucky\r"
+    duration: 0.1
+  - text: "And after going up with the help of the construction workers\r"
+    duration: 0.1
+  - text: You go to the hospital to get a few injections
+    duration: 0.1
+  appearTime: 0
+  timeCost: 0
+  eventChoices: {fileID: 11400000, guid: 20b3802b2b4b748ea8724303bf0b40b4, type: 2}
+  textFile: {fileID: 4900000, guid: 479c9725037eff34d9c965689609410c, type: 3}
+  isJobEvent: 0
+  possibility: 0.5
+  jobID: -1

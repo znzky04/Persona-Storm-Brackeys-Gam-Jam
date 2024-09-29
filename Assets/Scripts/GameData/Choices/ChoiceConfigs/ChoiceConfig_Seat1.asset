@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cc87dea97ed5e4926a54b12c6eb416fd, type: 3}
+  m_Name: ChoiceConfig_Seat1
+  m_EditorClassIdentifier: 
+  choicesList:
+  - {fileID: 11400000, guid: 823e51352720c894b9fb6cdfc2b11f99, type: 2}
+  - {fileID: 11400000, guid: e956cdae139f5e041a5b72374c86d509, type: 2}
+  - {fileID: 11400000, guid: f1928e26cb254fc45b934d9d99df83c4, type: 2}

@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 875e4d29dd6d94452945b71de10f689c, type: 3}
+  m_Name: seat2
+  m_EditorClassIdentifier: 
+  isInitialEvent: 0
+  isEmergency: 0
+  Icon: {fileID: 0}
+  eventDescription: 
+  eventTextList:
+  - text: "When you refuse the old man's request\r"
+    duration: 0.1
+  - text: "His attitude becomes worse and he insults you from the side\r"
+    duration: 0.1
+  - text: You decide
+    duration: 0.1
+  appearTime: 0
+  timeCost: 0
+  eventChoices: {fileID: 11400000, guid: c69594cb37719204eb8c87c45282bf63, type: 2}
+  textFile: {fileID: 4900000, guid: 52e57e31e506ebd4eb85af02c22f0e0d, type: 3}
+  isJobEvent: 0
+  possibility: 0.5
+  jobID: -1

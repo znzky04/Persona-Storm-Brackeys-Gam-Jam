@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cc87dea97ed5e4926a54b12c6eb416fd, type: 3}
+  m_Name: ChoiceConfig_BuyClothes
+  m_EditorClassIdentifier: 
+  choicesList:
+  - {fileID: 11400000, guid: c1526b688bf6e814b88c61a26bdec98c, type: 2}
+  - {fileID: 11400000, guid: 9895231b005becb4e850444c9070a706, type: 2}
+  - {fileID: 11400000, guid: e9bd235e3ccbff04989cb9bbf31d9b18, type: 2}
+  - {fileID: 11400000, guid: f711ed4a1c8a87444823d510b0cc6f59, type: 2}

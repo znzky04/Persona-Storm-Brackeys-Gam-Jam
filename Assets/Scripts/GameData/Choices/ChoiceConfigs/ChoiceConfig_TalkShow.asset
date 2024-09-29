@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cc87dea97ed5e4926a54b12c6eb416fd, type: 3}
+  m_Name: ChoiceConfig_TalkShow
+  m_EditorClassIdentifier: 
+  choicesList:
+  - {fileID: 11400000, guid: 4b780aeb28bf84648855db5619d0e3a8, type: 2}
+  - {fileID: 11400000, guid: 5630bc6adbe2e414ebd475fe122a24b4, type: 2}
+  - {fileID: 11400000, guid: 42c761d984d72844493da1948c189ef0, type: 2}
+  - {fileID: 11400000, guid: 29c044554ebd4cb4daa04ee266cced84, type: 2}

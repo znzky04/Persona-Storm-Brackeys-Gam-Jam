@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 875e4d29dd6d94452945b71de10f689c, type: 3}
+  m_Name: InitialEvents_Build
+  m_EditorClassIdentifier: 
+  isInitialEvent: 1
+  isEmergency: 1
+  Icon: {fileID: 0}
+  eventDescription: 
+  eventTextList:
+  - text: You pass by a construction site
+    duration: 0.1
+  - text: Because you do not see the anti-slip sign erected
+    duration: 0.1
+  - text: You accidentally fall into the pit with mud and a sprained foot
+    duration: 0.1
+  - text: You decide
+    duration: 0.1
+  appearTime: 1
+  timeCost: 1
+  eventChoices: {fileID: 11400000, guid: b9a2f62f031ae864492beb04b1e4c5d5, type: 2}
+  textFile: {fileID: 4900000, guid: 5740964d84332064cba767ce2ad62414, type: 3}
+  isJobEvent: 0
+  possibility: 0.5
+  jobID: -1

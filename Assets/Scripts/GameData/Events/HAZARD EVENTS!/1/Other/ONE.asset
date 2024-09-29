@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 875e4d29dd6d94452945b71de10f689c, type: 3}
+  m_Name: ONE
+  m_EditorClassIdentifier: 
+  isInitialEvent: 0
+  isEmergency: 1
+  Icon: {fileID: 0}
+  eventDescription: 
+  eventTextList:
+  - text: That's much better......
+    duration: 0.1
+  - text: This is the only moment I feel truly alive.....
+    duration: 0.1
+  appearTime: 0
+  timeCost: 0
+  eventChoices: {fileID: 11400000, guid: 49d41461ebd634372aa138766c761b4a, type: 2}
+  textFile: {fileID: 4900000, guid: 538e5f25dcc0da24db8d9bd2495496c3, type: 3}
+  isJobEvent: 0
+  possibility: 0.5
+  jobID: -1

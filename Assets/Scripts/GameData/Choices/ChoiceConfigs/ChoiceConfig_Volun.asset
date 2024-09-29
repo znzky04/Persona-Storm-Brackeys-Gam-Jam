@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cc87dea97ed5e4926a54b12c6eb416fd, type: 3}
+  m_Name: ChoiceConfig_Volun
+  m_EditorClassIdentifier: 
+  choicesList:
+  - {fileID: 11400000, guid: 03af8e2f8d6da324c9bb96f736c65c0b, type: 2}
+  - {fileID: 11400000, guid: 5f922040a6b32284bb40602d83c18a66, type: 2}

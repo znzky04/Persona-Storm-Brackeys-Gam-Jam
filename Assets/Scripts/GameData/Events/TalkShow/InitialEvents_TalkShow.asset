@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 875e4d29dd6d94452945b71de10f689c, type: 3}
+  m_Name: InitialEvents_TalkShow
+  m_EditorClassIdentifier: 
+  isInitialEvent: 1
+  isEmergency: 0
+  Icon: {fileID: 0}
+  eventDescription: Go to a talk show
+  eventTextList:
+  - text: "You head to the livehouse for a stand-up comedy show.\r"
+    duration: 0.1
+  - text: "During the show, the host made fun of you.\r"
+    duration: 0.1
+  - text: You decide.
+    duration: 0.1
+  appearTime: 2
+  timeCost: 1
+  eventChoices: {fileID: 11400000, guid: bd4991c79e06d04438a0251b9327ee91, type: 2}
+  textFile: {fileID: 4900000, guid: 9f400ecbe33f3db4ea32e7eca8461276, type: 3}

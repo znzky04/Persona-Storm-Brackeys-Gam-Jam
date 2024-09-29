@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 875e4d29dd6d94452945b71de10f689c, type: 3}
+  m_Name: InitialEvents_Arcade
+  m_EditorClassIdentifier: 
+  isInitialEvent: 1
+  isEmergency: 0
+  Icon: {fileID: 0}
+  eventDescription: Go to game center
+  eventTextList:
+  - text: "You go to a video game arcade\r"
+    duration: 0.1
+  - text: "You're about to play video games\r"
+    duration: 0.1
+  - text: "You see a box of coins sitting there\r"
+    duration: 0.1
+  - text: You decide
+    duration: 0.1
+  appearTime: 2
+  timeCost: 1
+  eventChoices: {fileID: 11400000, guid: ed36e7cec5d6d0342bba83c5838c26cd, type: 2}
+  textFile: {fileID: 4900000, guid: f991dcadb3e7a3541bc272f597c30e6d, type: 3}
+  isJobEvent: 0
+  possibility: 0.5
+  jobID: -1
